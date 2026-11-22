@@ -17,9 +17,12 @@
 | 2026-11 | 三星Galaxy-吐槽iPhone-Duo | 3C 電子 | 影片 | 比喻式吐槽 |  | [2026-11_三星Galaxy-吐槽iPhone-Duo.md](2026-11_三星Galaxy-吐槽iPhone-Duo.md) |
 | 2026-11 | goodwipes-Do-the-Merry-Most | 個人清潔（濕紙巾） | 品牌短片（Instagram、TikTok、YouTube） | 主持人式 skit |  | [2026-11_goodwipes-Do-the-Merry-Most.md](2026-11_goodwipes-Do-the-Merry-Most.md) |
 | 2026-11 | TCL-畫影迷蹤 | 3C 電子 | 品牌短片 | 實拍＋綠衣表演＋AI 換角 |  | [2026-11_TCL-畫影迷蹤.md](2026-11_TCL-畫影迷蹤.md) |
+| 2026-11 | Spoticar-Cute Little Dog | 汽車 | 影片（頁面未列片長） | 間諜片手法 | 日常小事拍成類型大片 | [2026-11_Spoticar-可愛小狗間諜片.md](2026-11_Spoticar-可愛小狗間諜片.md) |
 | 2026-11 | Renault（哥倫比亞）-萬聖節車燈恐怖片 | 汽車 | 影片 | 恐怖片手法 |  | [2026-11_Renault-萬聖節車燈恐怖片.md](2026-11_Renault-萬聖節車燈恐怖片.md) |
 | 2026-11 | RACV-As It Should Be | 保險、道路救援 | 6 支短片系列 | 固定機位廣角白描 | 什麼都沒發生的保險 | [2026-11_RACV-As-It-Should-Be.md](2026-11_RACV-As-It-Should-Be.md) |
 | 2026-11 | Peters Ice Cream Drumstick-Nan's Bickie Tin | 冰品、食品 | 影片（TV、OOH、數位、社群，含 Meta 與 TikTok 短版） | skit、道具特寫 | 越翻越離譜的真相 | [2026-11_Peters-Drumstick-阿嬤餅乾鐵盒.md](2026-11_Peters-Drumstick-阿嬤餅乾鐵盒.md) |
+| 2026-11 | Naranja X-When Life Becomes an Action Movie | 金融 | 影片（頁面未列片長） | 動作片手法 | 日常小事拍成類型大片 | [2026-11_Naranja-X-意外開支動作片.md](2026-11_Naranja-X-意外開支動作片.md) |
+| 2026-11 | Meow Mix-Behind the Memeow | 寵物食品 | 影片＋整合活動（頁面未列片長） | 迷因、動物角色 | 迷因表情改寫成產品反應、第三者反應代替說明 | [2026-11_Meow-Mix-迷因貓反應.md](2026-11_Meow-Mix-迷因貓反應.md) |
 | 2026-11 | Lion Chips-Quit Scaring, Give It a Go | 零食 | 影片 | 影片 |  | [2026-11_Lion-Chips-舊包裝太嚇人.md](2026-11_Lion-Chips-舊包裝太嚇人.md) |
 | 2026-11 | KFC 澳洲-GTA 6 請假葬禮 | 速食餐飲 | 線下活動＋直播 | 事件行銷、社群公告 |  | [2026-11_KFC澳洲-GTA6請假葬禮.md](2026-11_KFC澳洲-GTA6請假葬禮.md) |
 | 2026-11 | Hertz-You're Golden | 租車 | 影片（CTV、社群、數位） | 品牌平台、動物角色 |  | [2026-11_Hertz-Youre-Golden.md](2026-11_Hertz-Youre-Golden.md) |
